@@ -26,7 +26,7 @@ define('DB_NAME', 'worldwoAEdBtuFg4');
 define('DB_USER', 'b9b70e76cce5bf');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'b9b70e76cce5bf');
+define('DB_PASSWORD', '7b39819a');
 
 /** MySQL hostname */
 define('DB_HOST', 'us-cdbr-azure-west-c.cloudapp.net');
