@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'WorldWomanFoundation');
+define('DB_NAME', 'worldwoAEdBtuFg4');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'b9b70e76cce5bf');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'b9b70e76cce5bf');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'us-cdbr-azure-west-c.cloudapp.net');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
