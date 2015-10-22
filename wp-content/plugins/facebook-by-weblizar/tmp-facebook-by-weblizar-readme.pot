@@ -1,0 +1,266 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Facebook"
+msgstr ""
+
+#. Short description.
+msgid "Facebook Like Box plugin comes with Facebook Like Box Widget &amp; Shortcode."
+msgstr ""
+
+#. Screenshot description.
+msgid "Facebook Page Like Box Widget Preview"
+msgstr ""
+
+#. Found in description list item.
+msgid "Facebook Page Like Box Widget Settings"
+msgstr ""
+
+#. Screenshot description.
+msgid "Facebook Page Like Box Widget Preview On Site"
+msgstr ""
+
+#. Screenshot description.
+msgid "Facebook Page Like Box Shortcode Preview On Page"
+msgstr ""
+
+#. Found in description header.
+msgid "Features Of Plugin"
+msgstr ""
+
+#. Found in description header.
+msgid "Language Contributors"
+msgstr ""
+
+#. Found in description list item.
+msgid "Facebook Page Like Box Widget"
+msgstr ""
+
+#. Found in description list item, remaining content list item.
+msgid "Facebook Page Like Box Shortcode"
+msgstr ""
+
+#. Found in description list item, remaining content list item.
+msgid "Facebook Page Like Box Shortcode Settings"
+msgstr ""
+
+#. Found in description list item, remaining content list item.
+msgid "Individual Widget &amp; Shortcode Settings"
+msgstr ""
+
+#. Found in description list item, remaining content list item.
+msgid "Facebook Page Like Button"
+msgstr ""
+
+#. Found in description list item, remaining content list item.
+msgid "Facebook Page Live Stream"
+msgstr ""
+
+#. Found in description list item, remaining content list item.
+msgid "Facebook Page Fan Faces"
+msgstr ""
+
+#. Found in description list item, remaining content list item.
+msgid "Facebook Page Custom Height &amp; Width Option"
+msgstr ""
+
+#. Found in description list item.
+msgid "Latest Facebook Wall Feeds Displays"
+msgstr ""
+
+#. Found in description list item.
+msgid "Like &amp; Share Button for each feed in likebox"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Facebook like box pluign to display facebook page live stream &amp; friends on WordPress blog."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Using <strong>Facebook Like Box Plugin</strong> facebook widget publish your facbook page post &amp; show your facebook page fans."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Using <strong>[FBW]</strong> shortcode you can publish your facbook like page on any Page or Post."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Check screentshots section."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Serbian translation by <strong><a href=\"http://www.webhostinghub.com/\">Borisa Djuraskovic</a></strong>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the entire <code>facebook-by-weblizar</code> folder to the <code>/wp-content/plugins/</code> directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to Widgets in Appearance Menu and activate widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fixed in facebook plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resolved small design issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update admin panel css"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatible with wordpress 4.3.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small update in css file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update: widget &amp; shortcode theme setting removed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update: Header show/hide option depricated in API v2.4"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resolved small bug issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatible with WordPess 4.2 version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small Updates in file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Added Widget title for plugin widget"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Serbian Translation contributed by Borisa Djuraskovic"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatible with WordPress 4.1 version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove some unused css code from bootstrap.css"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update facebook-by-weblizar.php file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "code update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove minor bug "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update css"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: [FBW] shortcode added"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Fan Faces Hide &amp; Show Option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Translation Ready With .po &amp; .mo File"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Compatible with WordPress 4.0"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update Facebook App id link"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove small script error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove Small bug."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now compatible with all mobile devices."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Facebook Widget "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Facebook Widget Settings Panel"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "For more information, see <a href=\"http://wwww.weblizar.com/\">Weblizar</a> ."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Please use WordPress support forum to ask any query regarding any issue."
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Features"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Docs &amp; Support"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "We Need Your Support"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Translators"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Facebook Widget"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Facebook Widget Settings"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "Facebook Page Border Option"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "You can find <a href=\"http://weblizar.com/facebook-plugin-by-weblizar/\">docs</a>, <a href=\"http://www.weblizar.com/faq/\">FAQ</a> and more detailed information about Testimonial on <a href=\"http://www.weblizar.com\">Weblizar</a>. If you were unable to find the answer to your question on the FAQ or in any of the documentation, you should check the <a href=\"http://weblizar.com/facebook-plugin-by-weblizar/\">support forum</a> on WordPress.org."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "It is really hard to continue development and support for this free plugin without contributions from users like you. If you are enjoying using our Testimonial plugin and find it useful, then please consider <a href=\"http://www.weblizar.com\"><strong>Making a Donation</strong></a>. Your donation will help us to encourage and support the plugin's continued development and better user support."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Please contribute to translate our plugin.  Contact at <code>lizarweb (at) gmail (dot) com</code>."
+msgstr ""

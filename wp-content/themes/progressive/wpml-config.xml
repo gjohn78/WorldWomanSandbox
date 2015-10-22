@@ -1,0 +1,39 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">service</custom-type>
+		<custom-type translate="1">workflow</custom-type>
+		<custom-type translate="1">team</custom-type>
+		<custom-type translate="1">portfolio</custom-type>
+		<custom-type translate="1">process</custom-type>
+		<custom-type translate="1">showcase</custom-type>
+		<custom-type translate="1">testimonials</custom-type>
+		<custom-type translate="1">clients</custom-type>
+		<custom-type translate="1">faq</custom-type>
+		<custom-type translate="1">gallery</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">portfolio_category</taxonomy>
+		<taxonomy translate="1">clients_category</taxonomy>
+		<taxonomy translate="1">faq_category</taxonomy>
+		<taxonomy translate="1">gallery_category</taxonomy>
+	</taxonomies>
+	<admin-texts>
+		<key name="xv_data">
+			<key name="topbar-phone-text" />
+			<key name="promo_panel_text_1" />
+			<key name="promo_panel_text_2" />
+			<key name="promo_panel_facebook" />
+			<key name="promo_panel_twitter" />
+			<key name="promo_panel_google_plus" />
+			<key name="promo_panel_linkedin" />
+			<key name="promo_panel_button_url" />
+			<key name="promo_panel_button_label" />
+			<key name="shop_page_top_title" />
+			<key name="coming_soon_des" />
+			<key name="coming_soon_facebook" />
+			<key name="coming_soon_twitter" />
+			<key name="coming_soon_gplus" />
+			<key name="coming_soon_linkedin" />
+		</key>
+	</admin-texts>
+</wpml-config>
